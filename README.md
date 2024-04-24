@@ -7,7 +7,7 @@
 
 <h1>For Server Stuffs</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,py,linux,ts,cs,django,fastapi,arduino)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,linux,ts,cs,django,fastapi,arduino)](https://skillicons.dev)
 
 <h1>Frontend</h1>
 
