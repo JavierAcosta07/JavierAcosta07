@@ -18,9 +18,17 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
 
-<h1> By beloved stuff</h1>
+<h1>My favorites</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb,fastapi,js,react,vite,tailwind,raspberrypi,arduino)](https://skillicons.dev)
+
+<h1> Videogames development </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev)
+
+<h1> Programming tools </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git)](https://skillicons.dev)
 
 </aside>
 
